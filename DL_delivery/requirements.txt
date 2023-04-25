@@ -1,0 +1,5 @@
+azureml==0.2.7
+azureml_core==1.38.0
+joblib==0.14.1
+numpy==1.18.5
+scikit_learn==1.0.2
